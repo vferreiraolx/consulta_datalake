@@ -1,0 +1,5 @@
+pyhive
+requests
+python-dotenv
+pandas
+ipywidgets
